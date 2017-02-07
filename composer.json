@@ -5,7 +5,7 @@
     "require": {
         "symfony/console": "^2.8|^3.0",
         "symfony/process": "^2.8|^3.0",
-        "neos/utility-files": "^3.0",
+        "neos/utility-files": "^4.0",
         "ircmaxell/random-lib": "^1.1",
         "psr/log": "^1.0",
         "monolog/monolog": "^1.17",
