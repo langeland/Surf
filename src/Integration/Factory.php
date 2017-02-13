@@ -14,7 +14,7 @@ use Symfony\Component\Console\Exception\LogicException;
 use Symfony\Component\Console\Formatter\OutputFormatterStyle;
 use Symfony\Component\Console\Output\ConsoleOutput;
 use Symfony\Component\Console\Output\OutputInterface;
-use TYPO3\Flow\Utility\Files;
+use Neos\Utility\Files;
 use TYPO3\Surf\Cli\Symfony\Logger\ConsoleHandler;
 use TYPO3\Surf\Command\DeployCommand;
 use TYPO3\Surf\Command\DescribeCommand;
